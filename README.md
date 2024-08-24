@@ -3,4 +3,4 @@ My EAC &amp; BE Rady CR3 Reading &amp; Writing source that I use for my KM Drive
 
 💕 This is originally from my P2C But I am releasing it because I have moved onto new methods/exploits.
 # Contact
-If you want an actually good Kernel Level Cheat that is UD My discord is -> `_ambitza`
+If you want to contact me in regards of my work or projects my discord is -> `_ambitza`, Please do not message me for Issues or Learning/Studying I am not a teacher.
